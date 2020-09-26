@@ -11,6 +11,7 @@ The purpose is to treat without delay.
 ## Tasks
 
 1. Reduce the cyclomatic complexity.
+1. Avoid duplication - functions that do nearly the same thing
 1. Complete the tests - cover all conditions.
 1. To treat, we need to know the abnormal vital and the breach -
 whether high or low. Add this capability.
